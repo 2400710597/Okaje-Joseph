@@ -1,0 +1,243 @@
+* padding{ 0}
+  margin{ 0}
+
+body{
+    background-color: darkcyan;
+}
+body{
+    background-color:rgba(3, 13, 46, 0.46);
+}
+.navbar{
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(108, 18, 59)}
+.logo img{
+    width: 300px;
+}
+nav{
+    flex: 1;
+    text-align: center;
+}
+nav a{
+    color: antiquewhite;
+        margin-right: 20px;
+        font-size: 30px;
+        text-align: center;
+}
+/* after the navbar  */
+
+.Welcome{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    margin-top: 40px;
+    padding: 30px;
+}
+.col-2{
+    flex-basis: 50%;
+}
+.col-2 img{
+    width: 100%;
+    border-radius: 30px;
+    display: flexs;
+}
+.home a{
+    color: aliceblue;
+}
+.col-2 h2{
+    font-size: 60px;
+    color: rgb(45, 13, 151);
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    }
+.col-2 p{
+    color: rgb(166, 194, 194);
+    font-style: italic;
+    font-weight: 600;
+}
+.col-2 img{
+    margin-left: 60px;
+    margin-top: 1000px;
+}
+/* after .col-2 */
+body{
+    background-color: gainsboro;
+}
+.homie{
+align-items: center;
+background-image: image(background-image);
+}
+nav{
+    background-color: rgb(37, 4, 4);
+     font-size: medium;
+     font-style: italic;
+}
+.sect1 H1{
+        font-style: italic;
+    padding-right: 150px;
+    color: wheat;
+}
+.sect1 p{
+font-style: italic;
+text-align: center;
+color: azure;
+font-family: Arial, Helvetica, sans-serif;
+font-display: block;
+font-weight: 1000;
+fo
+}
+.sect2 img{
+    width: 600px;
+    width: 70%;
+    border-radius: 20px;
+    margin-left: 140px;
+    background-image:;
+}
+nav a{
+    text-decoration-line: none;
+    color: wheat;
+    display:flex;
+    justify-content: space-between;
+}
+body{
+    background-image: url(Images/stock-photo-135710589.jpg);
+}
+.homie2{
+    background-color: wheat;
+}
+.col1 h1{
+    text-align: center;
+    font-size: smaller;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 50px;
+}
+.col1 h2{
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+font-family: cursive;
+}
+.col1 p{
+    text-align: center;
+    font-style: italic;
+}
+.col1 h3{
+    text-align: center;
+    color: darkgoldenrod;
+    padding-left: 150px;
+}
+.footer-container{
+    background-color:rgb(37, 2, 2) ;
+}
+.footer{
+    display: flex;
+    color: wheat;
+    margin: 0 auto;
+    padding-right: 150px;
+    flex-wrap: wrap;
+}
+.footerheading a{
+    color: azure;
+    text-decoration: none;
+}
+.footerheading h2{
+    margin-bottom: 2rem;
+}
+.footerheading a::hover{
+    color:lime ;
+    transition: ease-out;
+}
+/* after the .footerheading */
+.navbar h1{
+    font-style: italic;
+}
+.message p{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+}
+.message h1{
+    font-style: italic;
+    color: chocolate;
+}
+.message li{
+    color: aliceblue;
+}
+.message legend{
+    color: coral;
+}
+ /* after the message */
+body{
+    background-color: cyan;
+}
+body h1{
+    color: whitesmoke;
+    }
+body h4{
+    color:whitesmoke ;
+   }
+form{
+       width: 300px;
+    height: 70px;
+       color: rgb(221, 17, 68);
+}
+body a{
+           color: aliceblue;
+    text-decoration: none;
+}
+input{
+        width: 100%;
+    height: 70px;
+    color: rgb(146, 14, 45);
+}
+textarea {
+    resize: vertical;
+}
+input, textarea {
+    border: 2px solid ddd;
+}
+/* after textarea */
+body{
+    background-color:black;
+}
+body H1{
+    color: antiquewhite;
+}
+body a{
+    background-color: rgb(54, 2, 2);
+    display: flex;
+    font-size: 30px;
+}
+.bout{
+    color: azure;
+}
+.bout p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.row h6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.row img{
+    border-radius: 20px;
+    display: flex;
+    margin-left: 80px;
+    width: 500px;
+}
+.message img{
+    width: 50px;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
